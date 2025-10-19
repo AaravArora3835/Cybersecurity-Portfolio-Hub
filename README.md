@@ -94,6 +94,7 @@ Deployed professional landing page with purple gradient theme, feature cards, an
 
 ##  44-Week Timeline
 
+<pre>
 ┌─────────────┬─────────────┬─────────────┬─────────────┐
 │  PHASE 1    │  PHASE 2    │  PHASE 3    │  PHASE 4    │
 │  Oct–Dec    │  Jan–Feb    │  Mar–May    │  Jun–Aug    │
@@ -106,6 +107,8 @@ Deployed professional landing page with purple gradient theme, feature cards, an
 │ Foundation   │ 4 Modules  │ Gamification │ Polish       │
 │ Module 1     │ Modules 2–4 │ Leaderboards │ 300+ Users   │
 └─────────────┴─────────────┴─────────────┴─────────────┘
+</pre>
+
 
 
 **Key Milestones:**
