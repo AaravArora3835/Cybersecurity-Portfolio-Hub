@@ -42,7 +42,7 @@ High school sophomore documenting a 10-month transformation from beginner to cer
 
 ### SecureScholar Platform
 
-**Live Demo:** [securescholar.netlify.app](https://securescholar.netlify.app)  
+**Live Demo:** [[github.io Secure Scholar App](https://aaravarora3835.github.io/SecureScholar-Platform/)  
 **Repository:** [SecureScholar-Platform](https://github.com/AaravArora3835/SecureScholar-Platform)  
 **Status:** Phase 1 - Foundation (Week 0 Complete)
 
@@ -250,7 +250,7 @@ Community education initiative teaching cybersecurity fundamentals to local stud
 ## Connect & Follow
 
 - **GitHub Profile:** [github.com/AaravArora3835](https://github.com/AaravArora3835)
-- **SecureScholar Live:** [securescholar.netlify.app](https://securescholar.netlify.app)
+- **SecureScholar Live:** [github.io Secure Scholar App](https://aaravarora3835.github.io/SecureScholar-Platform/)
 - **LinkedIn:** Launching August 2026 (post-completion)
 - **Email:** aaravarora3835@gmail.com - Feel free to reach out about anything
 
