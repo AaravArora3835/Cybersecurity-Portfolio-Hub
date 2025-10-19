@@ -11,6 +11,8 @@ High school sophomore documenting a 10-month transformation from beginner to cer
 
 **Why I made it public?** Accountability and Transparency, while mantaining Proof of work.
 
+**[Read more about me →](ABOUT.md)**
+
 ---
 
 ## Current Status (Updated Oct 18, 2025)
