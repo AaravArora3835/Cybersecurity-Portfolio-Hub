@@ -1,322 +1,292 @@
-# Aarav Arora - Cybersecurity Portfolio
+# Aarav Arora – Cybersecurity Portfolio
 
-**Timeline:** October 2025 - August 2026 (44 weeks)  
-**Mission:** Building cybersecurity expertise through certifications, hands-on projects, and community impact
+**High School Sophomore | Aspiring Security Professional | Building in Public**
 
----
-
-## About This Journey
-
-High school sophomore documenting a 10-month transformation from beginner to certified cybersecurity professional. This portfolio tracks every step: certifications earned, projects built, skills developed, and lessons learned.
-
-**Why I made it public?** Accountability and Transparency, while mantaining Proof of work.
-
-**[Read more about me:](ABOUTME.md)**
+> 44-week documented journey from foundational knowledge to professional certification  
+> October 2025 – August 2026
 
 ---
 
-## Current Status (Updated Oct 18, 2025)
+## Portfolio Overview
 
-### Certifications (0/3 Complete)
+This portfolio demonstrates my progression in cybersecurity through hands-on projects, professional certifications, and community education. Every project is documented with evidence, reflections, and lessons learned.
 
-**Phase 1: Google Cybersecurity Certificate**
+**Why This Matters:**  
+Rather than passively consuming courses, I'm building real applications, configuring security infrastructure, and teaching others—proving I can apply knowledge to solve actual problems.
+
+[**Learn more about my background and goals →**](ABOUTME.md)
+
+---
+
+## Featured Work
+
+### 🎮 [SecureScholar – Gamified Cybersecurity Learning Platform](https://github.com/AaravArora3835/SecureScholar-Platform)
+
+**Live Application:** [securescholar.netlify.app](https://aaravarora3835.github.io/SecureScholar-Platform/)  
+**Status:** Active Development | Phase 1 Complete ✅
+
+Interactive web platform teaching cybersecurity fundamentals to high school students through gamification, quizzes, and progressive learning modules.
+
+**Technical Implementation:**
+- Frontend: HTML5, CSS3 (glassmorphism design), Vanilla JavaScript
+- Deployment: Netlify with CI/CD pipeline
+- Authentication: Firebase (planned)
+- Features: 6 learning modules, points system, achievement badges, leaderboards
+
+**Current Progress:**
+- ✅ Professional landing page deployed
+- ✅ Module 1: Password Security (4 lessons + 10-question quiz)
+- ✅ Achievement system with unlockable content
+- ✅ Progress tracking and visual indicators
+- 🔄 User authentication system (in progress)
+- 📅 Target: 300+ registered users by August 2026
+
+**Skills Demonstrated:**
+- Full-stack web development
+- User experience design
+- Cloud deployment and CI/CD
+- Educational content creation
+- Long-term project planning and execution
+
+**View:** [Live Demo](https://aaravarora3835.github.io/SecureScholar-Platform/) | [Source Code](https://github.com/AaravArora3835/SecureScholar-Platform) | [Development Log](https://github.com/AaravArora3835/SecureScholar-Platform/blob/main/DEVLOG.md)
+
+---
+
+### 🏠 [Cybersecurity Home Lab](https://github.com/AaravArora3835/Cybersecurity-Homelab)
+
+**Status:** Foundation Complete ✅
+
+Isolated virtual network environment for practicing penetration testing and defensive security techniques safely.
+
+**Technical Architecture:**
+- **Hypervisor:** Oracle VirtualBox 7.2
+- **Systems:** Windows 10 (target), Kali Linux (attacker platform)
+- **Network Design:** Dual-NIC configuration (NAT + Host-Only isolation)
+- **Documentation:** 3 complete lab reports with timestamped evidence
+
+**Labs Completed:**
+1. **Infrastructure Setup** – VM installation, resource allocation, initial configuration
+2. **Network Configuration** – Host-Only adapter setup, connectivity troubleshooting, firewall analysis
+3. **Network Reconnaissance** – Nmap host discovery, service detection, defensive posture evaluation
+
+**Key Technical Achievements:**
+- Diagnosed and resolved ICMP blocking (Windows Firewall rule configuration)
+- Configured isolated 192.168.56.0/24 subnet preventing accidental LAN exposure
+- Analyzed filtered port responses to understand firewall behavior
+- Documented complete troubleshooting methodology with root cause analysis
+
+**Skills Demonstrated:**
+- Virtualization and network isolation
+- Security tool proficiency (Nmap)
+- Systematic troubleshooting
+- Professional technical documentation
+
+**View:** [Lab Reports](https://github.com/AaravArora3835/Cybersecurity-Homelab/tree/main/Labs) | [Troubleshooting Log](https://github.com/AaravArora3835/Cybersecurity-Homelab/blob/main/TROUBLESHOOTING.md)
+
+---
+
+## Certification Roadmap
+
+### 📜 Planned Certifications (0/3 Complete)
+
+**Phase 1: Google Cybersecurity Professional Certificate**
+- **Duration:** 12 weeks (Oct 27 – Dec 22, 2025)
+- **Focus:** Security fundamentals, network security, incident response, Python automation
 - **Status:** Launching Oct 27, 2025
-- **Duration:** 12 weeks (Oct-Dec)
-- **Progress:** 0/8 modules
-- **Expected Completion:** December 22, 2025
-- [View Repository](https://github.com/AaravArora3835/Google-Cybersecurity-Certificate)
+- [View Study Repository →](https://github.com/AaravArora3835/Google-Cybersecurity-Certificate)
 
-**Phase 2: ISC² Certified in Cybersecurity**
-- **Status:** Starts January 2026
-- **Duration:** 8 weeks (Jan-Feb)
-- **Expected Completion:** February 22, 2026
+**Phase 2: ISC² Certified in Cybersecurity (CC)**
+- **Duration:** 8 weeks (Jan 5 – Feb 22, 2026)
+- **Focus:** Security principles, business continuity, access controls, network security
+- **Status:** Scheduled for January 2026
 
 **Phase 3: CompTIA Security+**
-- **Status:** Starts May 2026
-- **Duration:** 6 weeks prep + exam
-- **Expected Completion:** July 6, 2026
+- **Duration:** 6 weeks prep + exam (May 25 – Jul 6, 2026)
+- **Focus:** Threats/attacks, architecture, operations, governance/risk/compliance
+- **Status:** Scheduled for summer 2026
 
 ---
 
-## Featured Project
+## Community Impact
 
-### SecureScholar Platform
+### 🎓 Digital Safety Kit Initiative (Planned: Jan–Aug 2026)
 
-**Live Demo:** [[github.io Secure Scholar App](https://aaravarora3835.github.io/SecureScholar-Platform/)  
-**Repository:** [SecureScholar-Platform](https://github.com/AaravArora3835/SecureScholar-Platform)  
-**Status:** Phase 1 - Foundation (Week 0 Complete)
+Community education program teaching practical cybersecurity skills to local students and parents through interactive workshops.
 
-#### About SecureScholar
-Gamified cybersecurity learning platform designed for high school students. Building over 10 months with a target of 300+ users by August 2026 launch.
+**Planned Components:**
+- Professional workshop slide deck (30-40 slides)
+- Interactive phishing detection quiz
+- Password strength checker tool (web-based)
+- Printable quick-reference guides
+- 2-3 live workshop deliveries
 
-**Vision:** Make cybersecurity education accessible and fun through interactive modules, gamification, and beginner-friendly content.
+**Topics Covered:**
+- Password security and password managers
+- Phishing email recognition
+- Two-factor authentication setup
+- Social media privacy settings
+- Safe online shopping practices
 
-#### Current Status
-- [x] Landing page designed and deployed
-- [x] Project structure established
-- [x] Documentation complete (README + DEVLOG)
-- [x] Netlify deployment configured
-- [ ] Module 1: Password Security (starting Week 2)
-- [ ] User authentication system
-- [ ] 6 interactive modules
-- [ ] Gamification (points, badges, leaderboards)
-- [ ] 300+ user goal
-
-#### Tech Stack
-- **Frontend:** HTML5, CSS3 (Glassmorphism design), Vanilla JavaScript
-- **Hosting:** Netlify (CI/CD enabled)
-- **Future:** Firebase (authentication + database)
-
-#### Latest Update (Oct 17, 2025)
-Deployed professional landing page with purple gradient theme, feature cards, and development timeline. First public project shipped!
+**Goal:** Educate 50+ community members on digital safety fundamentals
 
 ---
 
-## Journey Statistics
+## Technical Skills
 
-### Week 0 Metrics (Oct 14-18)
-- ** Days Active:** 5
-- ** Repositories Created:** 4
-- ** Lines of Code Written:** 300+
-- ** Projects Deployed:** 1 (SecureScholar live)
-- ** Documentation Pages:** 8
-- ** Certifications Earned:** 0/3
-- ** Total Hours Invested:** ~8 hours
+### Current Proficiencies
+- **Security Tools:** Nmap, Wireshark (learning), Kali Linux toolset
+- **Networking:** TCP/IP fundamentals, subnet configuration, firewall rules
+- **Operating Systems:** Windows 10/11, Kali Linux, VirtualBox virtualization
+- **Development:** HTML5, CSS3, JavaScript, Git/GitHub
+- **Documentation:** Technical writing, evidence-based reporting, troubleshooting logs
 
-### Infrastructure Complete
-- ✅ Home lab environment (Kali + Windows VMs tested)
-- ✅ GitHub organization (4 repos with standards)
-- ✅ Study calendar (44-week schedule set)
-- ✅ Documentation templates created
-- ✅ First project shipped and live
-- ✅ 2FA security enabled
-- ✅ Backup systems configured
+### Actively Learning
+- Linux command line and Bash scripting
+- Network packet analysis
+- Web application security fundamentals
+- Python for security automation
+- SIEM concepts and incident response workflows
+
+### Future Focus Areas
+- Cloud security (AWS, Azure)
+- Penetration testing methodologies
+- Security operations center (SOC) workflows
+- Digital forensics and incident response
+- Malware analysis fundamentals
 
 ---
 
-##  44-Week Timeline
-
-<pre>
+## Project Timeline
+```
 ┌─────────────┬─────────────┬─────────────┬─────────────┐
 │  PHASE 1    │  PHASE 2    │  PHASE 3    │  PHASE 4    │
 │  Oct–Dec    │  Jan–Feb    │  Mar–May    │  Jun–Aug    │
 ├─────────────┼─────────────┼─────────────┼─────────────┤
 │ Google Cert │ ISC² CC     │ TryHackMe   │ Security+   │
-│             │ Digital     │ Jr Pen      │ Workshops   │
-│             │ Safety Kit  │ Tester Path │ Launch      │
+│ 8 modules   │ Cert prep   │ Jr Pentester│ Exam prep   │
+│             │             │ Path        │             │
 ├─────────────┼─────────────┼─────────────┼─────────────┤
-│ SecureScholar │ SecureScholar │ SecureScholar │ SecureScholar │
-│ Foundation   │ 4 Modules  │ Gamification │ Polish       │
-│ Module 1     │ Modules 2–4 │ Leaderboards │ 300+ Users   │
+│SecureScholar│SecureScholar│SecureScholar│SecureScholar│
+│ Foundation  │ Modules 2-4 │Gamification │ Launch      │
+│ Module 1    │ Auth system │ Features    │ 300+ users  │
+├─────────────┼─────────────┼─────────────┼─────────────┤
+│             │Digital      │             │ Community   │
+│             │Safety Kit   │             │ Workshops   │
+│             │ Creation    │             │ (50+ people)│
 └─────────────┴─────────────┴─────────────┴─────────────┘
-</pre>
-
-
+```
 
 **Key Milestones:**
-- Dec 22: Google Cert complete
-- Feb 22: ISC² CC complete
-- May 24: TryHackMe path complete (30+ rooms)
-- Jul 6: Security+ exam passed
-- Aug 24: Portfolio complete, LinkedIn launched
+- ✅ **Oct 18:** Portfolio infrastructure complete, SecureScholar deployed
+- 📅 **Dec 22:** Google Cybersecurity Certificate earned
+- 📅 **Feb 22:** ISC² CC certification earned
+- 📅 **May 24:** TryHackMe Junior Penetration Tester path complete
+- 📅 **Jul 6:** CompTIA Security+ exam passed
+- 📅 **Aug 24:** Portfolio complete, SecureScholar launched with 300+ users
 
 ---
 
 ## All Repositories
 
-### Active Development
-1. **[SecureScholar-Platform](https://github.com/AaravArora3835/SecureScholar-Platform)**
-   - Main 10-month project
-   - **LIVE:** securescholar.netlify.app
-   - Status: Phase 1 foundation complete ✅
+### Active Projects
+1. **[SecureScholar-Platform](https://github.com/AaravArora3835/SecureScholar-Platform)** – Main web application (10-month build)
+2. **[Google-Cybersecurity-Certificate](https://github.com/AaravArora3835/Google-Cybersecurity-Certificate)** – Certification study notes and labs
+3. **[Cybersecurity-Homelab](https://github.com/AaravArora3835/Cybersecurity-Homelab)** – Virtual lab environment documentation
 
-2. **[Google-Cybersecurity-Certificate](https://github.com/AaravArora3835/Google-Cybersecurity-Certificate)**
-   - Certification study notes and labs
-   - Status: Ready for Oct 27 launch
-   - Structure: /Notes, /Labs, /Screenshots, Reflection.md
-
-### Infrastructure
-3. **[Cybersecurity-Homelab](https://github.com/AaravArora3835/Cybersecurity-Homelab)**
-   - VM setup documentation
-   - Network configuration
-   - Testing environment proof
-
-4. **[Templates-and-Assets](https://github.com/AaravArora3835/Templates-and-Assets)**
-   - Is private and used for personal cositency
-   - Standardized documentation templates
-   - README, Reflection, Weekly Notes templates
-   - Ensures consistency across all repos
-
-### Coming Soon (Progressive Creation)
-- **ISC2-CC-Notes** - Created Jan 5, 2026
-- **Digital-Safety-Kit** - Created Jan 5, 2026
-- **TryHackMe-Writeups** - Created Mar 1, 2026
-- **SecurityPlus-Notes** - Created May 25, 2026
+### Upcoming Repositories (Created Progressively)
+- **ISC2-CC-Notes** (Created: Jan 5, 2026)
+- **Digital-Safety-Kit** (Created: Jan 5, 2026)
+- **TryHackMe-Writeups** (Created: Mar 1, 2026)
+- **SecurityPlus-Notes** (Created: May 25, 2026)
 
 ---
 
-## Project Showcase
+## Documentation Philosophy
 
-### SecureScholar Development Phases
+Every project in this portfolio follows professional standards:
 
-**Phase 1: Foundation (Oct-Dec 2025)**
-- Landing page ✅
-- User authentication system
-- Module 1: Password Security quiz
-- Basic points tracking
+✅ **Clear Objectives** – What am I trying to accomplish?  
+✅ **Methodology** – Step-by-step technical process  
+✅ **Evidence** – Screenshots, logs, code samples  
+✅ **Analysis** – What did I learn? What went wrong?  
+✅ **Reflection** – How does this connect to larger goals?
 
-**Phase 2: Content Expansion (Jan-Feb 2026)**
-- Module 2: Phishing Detection
-- Module 3: Network Fundamentals
-- Module 4: Encryption Basics
-- User dashboard with progress
-
-**Phase 3: Gamification (Mar-May 2026)**
-- Leaderboard system
-- Achievement badges (20+ badges)
-- Weekly challenges
-- Public user profiles
-- Social features
-
-**Phase 4: Advanced Modules (May-Jun 2026)**
-- Module 5: Web Application Security
-- Module 6: Cryptography Deep Dive
-- UX/UI improvements
-- Mobile responsive design
-
-**Phase 5: Launch (Jul-Aug 2026)**
-- Final polish and testing
-- Marketing and outreach
-- User onboarding flow
-- **Target: 300+ registered users**
+This approach mirrors real-world security assessments and technical reporting, preparing me for professional environments.
 
 ---
 
-**Live Demo:** https://aaravarora3835.github.io/SecureScholar-Platform/
+## Why Build in Public?
 
-**Latest Update (Oct 19):**
-- ✅ Built complete Module 1 (4 lessons + quiz)
-- ✅ Added personal learning notes throughout
-- ✅ Implemented achievement system with unlocks
-- ✅ Created progress tracking (visual indicators)
-- ✅ Professional dark mode design
-- ✅ 10-question interactive quiz
-- ✅ **Total: 300+ lines of code, 4 hours of work**
+**Accountability:** Public documentation keeps me consistent and honest about progress.
 
----
+**Proof of Work:** Detailed evidence demonstrates real skills, not just completed courses.
 
-## Additional Projects
+**Learning by Teaching:** Documenting forces deeper understanding and helps others following similar paths.
 
-### Digital Safety Kit (Jan-Aug 2026)
-Community education initiative teaching cybersecurity fundamentals to local students and parents.
+**Professional Development:** GitHub portfolio becomes a living resume showing growth over time.
 
-**Components:**
-- Workshop slide deck (30-40 slides)
-- Printable handouts on key topics
-- "Spot the Phishing Email" interactive quiz
-- Password strength checker tool (web-based)
-- 2-3 live workshop deliveries
-
-**Topics Covered:**
-- Password security and managers
-- Phishing recognition
-- Two-factor authentication
-- Social media privacy
-- Safe online shopping
-
-**Goal:** Serve 50+ community members with cybersecurity education
+**Community Contribution:** Open projects and documentation benefit other students entering cybersecurity.
 
 ---
 
-## Learning Philosophy
+## Current Status
 
-### Core Principles
+**Last Updated:** October 24, 2025
 
-1. **Document Everything**
-   - Public accountability drives consistency
-   - Future reference for myself and others
-   - Proof of work for college/internship applications
+**This Week's Focus:**
+- Finalizing home lab documentation
+- Preparing for Google Cybersecurity Certificate launch (Oct 27)
+- Developing SecureScholar Module 2 content
 
-2. **Build in Public**
-   - Share progress, failures, and lessons
-   - Transparency > perfection
-   - Learn from community feedback
-
-3. **Quality Over Speed**
-   - Deep understanding > rushing through material
-   - Master fundamentals before advanced topics
-   - It's a 10-month journey, not a sprint
-
-4. **Community Focus**
-   - Use skills to help others (workshops)
-   - Give back while learning
-   - Teaching reinforces understanding
-
-5. **Sustainable Pace**
-   - 5-8 hrs/week during school year
-   - 15-18 hrs/week during summer
-   - Balance with academics and life
-   - Consistency > intensity
+**Hours Invested to Date:** ~15 hours  
+**Repositories Created:** 4  
+**Lines of Code Written:** 500+  
+**Projects Deployed:** 1 (SecureScholar live)
 
 ---
 
-## Connect & Follow
+## Connect
 
-- **GitHub Profile:** [github.com/AaravArora3835](https://github.com/AaravArora3835)
-- **SecureScholar Live:** [github.io Secure Scholar App](https://aaravarora3835.github.io/SecureScholar-Platform/)
-- **LinkedIn:** Launching August 2026 (post-completion)
-- **Email:** aaravarora3835@gmail.com - Feel free to reach out about anything
+**GitHub:** [@AaravArora3835](https://github.com/AaravArora3835)  
+**Email:** aaravarora3835@gmail.com  
+**LinkedIn:** Launching August 2026 (post-certification completion)
+
+**Open to:**
+- Feedback on projects and documentation
+- Collaboration with other students
+- Learning from cybersecurity professionals
+- Internship opportunities (available Summer 2026)
 
 ---
 
-### What This Portfolio Demonstrates
+## What This Portfolio Demonstrates
 
-**Technical Skills:**
-- Self-directed learning and certification pursuit
+**Technical Competence:**
+- Hands-on security tool proficiency
+- Infrastructure configuration and troubleshooting
 - Full-stack web development
-- Version control and documentation 
-- Cloud deployment
-- Home lab configuration 
+- Professional documentation practices
 
 **Professional Habits:**
-- Consistent documentation standards
-- Long-term project planning
+- Self-directed learning and goal-setting
+- Consistent execution over 10 months
+- Quality-focused work ethic
 - Public accountability and transparency
-- Quality-focused execution
 
-**Soft Skills:**
-- Self-motivation and discipline
-- Time management
-- Community service
-- Written communication
+**Unique Value:**
+- Building real applications while learning theory
+- Community education and service orientation
+- Long-term project commitment
+- Evidence-based skill demonstration
 
-**Unique Differentiators:**
-- Building while learning
-- 10-month public documentation 
-- Real deployed project with users
-- Community impact component
-
----
-
-## Progress Tracking
-
-### Monthly Milestones
-
-- [ ] **Month 1 (Oct):** Launch journey, Google Cert Modules 1-2, SecureScholar foundation
-- [ ] **Month 2 (Nov):** Google Cert Modules 3-5, SecureScholar Module 1
-- [ ] **Month 3 (Dec):** Google Cert complete ✅, SecureScholar auth system
-- [ ] **Month 4 (Jan):** ISC² CC start, Digital Safety Kit creation
-- [ ] **Month 5 (Feb):** ISC² CC complete ✅, SecureScholar 4 modules
-- [ ] **Month 6 (Mar):** TryHackMe start, SecureScholar gamification
-- [ ] **Month 7 (Apr):** TryHackMe continued, leaderboards
-- [ ] **Month 8 (May):** TryHackMe complete + Security+ start
-- [ ] **Month 9 (Jun):** Security+ prep intensive
-- [ ] **Month 10 (Jul-Aug):** Security+ exam ✅ + Workshops + SecureScholar launch
+**College Readiness:**
+- Independent research and problem-solving
+- Time management and discipline
+- Technical communication skills
+- Portfolio of completed work
 
 ---
 
-**Want to follow the journey?**
-- Star this repository
-- Watch for updates
-- Share with others interested in cybersecurity
+**⭐ Star this repository to follow my 44-week cybersecurity journey**
 
+*This portfolio represents 10 months of documented learning, building, and growth. Every project includes evidence, reflections, and lessons learned.*
