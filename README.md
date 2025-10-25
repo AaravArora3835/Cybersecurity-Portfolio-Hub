@@ -193,6 +193,22 @@ Community education program teaching practical cybersecurity skills to local stu
 2. **[Google-Cybersecurity-Certificate](https://github.com/AaravArora3835/Google-Cybersecurity-Certificate)** – Certification study notes and labs
 3. **[Cybersecurity-Homelab](https://github.com/AaravArora3835/Cybersecurity-Homelab)** – Virtual lab environment documentation
 
+---
+
+## Additional Documentation
+
+**Planning & Progress:**
+- [44-Week Roadmap](ROADMAP.md) – Detailed timeline with phase breakdowns and weekly goals
+- [Frequently Asked Questions](FAQs.md) – Common questions about my journey and projects
+
+**Learning Resources:**
+- [Curated Resource Library](RESOURCES.md) – Tools, courses, communities, and references used throughout my journey
+
+**About:**
+- [About Me](ABOUTME.md) – My background, motivations, and long-term goals
+
+---
+
 ### Upcoming Repositories (Created Progressively)
 - **ISC2-CC-Notes** (Created: Jan 5, 2026)
 - **Digital-Safety-Kit** (Created: Jan 5, 2026)
